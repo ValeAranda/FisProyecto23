@@ -1,6 +1,6 @@
 | Nombres | Información |
 | ------------- | ------------- |
 | <img src="https://media.licdn.com/dms/image/D4E03AQEn4d6iK9a4pw/profile-displayphoto-shrink_800_800/0/1693016807501?e=1701302400&v=beta&t=eNizd3P09iYkhy7Shi3MjEuqeFEUEV8bv41r_3hPLyo" alt="Drawing" style="width: 200px;"/> Cristhian Valentina Aranda Canul  | Ingeniero de software  |
-| Hector Ivan Vega Escobar  | Estudiante de ingenieria se Software en ma UADY  |
+| Hector Ivan Vega Escobar  | Estudiante de ingenieria de Software en la UADY, cursando actualmente el 1er semestre, actualmente tengo 19 años    |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
