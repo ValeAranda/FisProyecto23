@@ -3,3 +3,16 @@
 | El usuario podrá agregar información de sus cuentas bancarias (teniendo en cuenta la seguridad de sus cuentas) con datos como saldo dinsponibles, gastos, así como la opción de poder eliminarlas    |  El servidor será capaz de administrar la conexión de la aplicación de una forma constante las 24 hrs del día   |
 |  La aplicación podrá brindar información a los usuarios sobre información financiera, tales como recomendaciones, y lecciones sobre la importancia de la gestión correcta de los ingresos    |   Al tratarse de bancos e información bancaria, los datos proporcionados por los usuarios serán protegidos y encriptados para garantizar la seguridad de los datos  |
 | El usuario podrá visualizar de manera simple práctica un resumen de sus gastos, mediante gráficas donde se muestre a detalle la información sin saturarse de texto y de manera limpia    |    Gestionar de manera óptima las plataformas diferentes en los que dicha aplicación se llevará a cabo    |
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hola, Mundo</title>
+</head>
+<body>
+
+<h1>Hola, Mundo!</h1>
+<p>Este es un ejemplo de un documento HTML básico.</p>
+
+</body>
+</html>
