@@ -14,7 +14,7 @@
     <li>Herramientas de Ahorro: La aplicación incluye herramientas de ahorro que ayudan a los usuarios a establecer metas financieras realistas y a seguir su progreso. Esto fomenta la disciplina financiera y el logro de objetivos a largo plazo.</li>
     <li>Seguridad y Privacidad: Se ha puesto un énfasis especial en la seguridad de los datos financieros. La aplicación utiliza métodos de encriptación avanzados y autenticación segura para proteger la información sensible del usuario.</li>
   </ol>
-  <h2>Usuarios
+  <h2>Usuarios</h2>
   <ol>
     <li>Jóvenes Adultos en Etapa de Inicio Profesional: Aquellos que están comenzando sus carreras profesionales y experimentando con independencia financiera. Esta aplicación les brinda las herramientas necesarias para administrar sus ingresos y gastos de manera efectiva mientras establecen hábitos financieros saludables.</li>
     <li>Estudiantes Universitarios: Los estudiantes universitarios pueden usar la aplicación para rastrear sus gastos relacionados con la matrícula, libros, vivienda y entretenimiento. También les ayuda a establecer presupuestos y metas de ahorro para su futuro.</li>
