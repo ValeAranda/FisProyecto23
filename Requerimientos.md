@@ -7,8 +7,11 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hola, Mundo!</h1>
-<p>Este es un ejemplo de un documento HTML básico.</p>
+<h1>Priorizacion de Requerimienos</h1>
+<h2>Requerimientos funcionales</h2>
+<p>Los requermientos funcionales fueron priorizados segun las funciones principales de nuestra aplicacion, en este caso pusimos como primero la opcion del usuario en poner su informacion de cuentas para poder generar a detalle informes de gastos, recomendaciones y se lleven a cabo funciones de la aplicación.</p>
+<p>Como segunda parte en las prioridades hemos establecido que la aplicacion sea capaz de administrar los datos financieros y que pueda dar recomendaciones, en estas opciones habran funciones como establever limites de gastos diarios, apartados donde se podran administrar difernetes tipos de gastos, como gastos fijos, etc.</p>
+<p>Como tercer requerimiento funcional en las prioridades a sido que la informacion y resumen de gastos que la app proporcione al usuario, sea de una manera simple para su facil interpretacion, esto haciendo que sea cómodo para la vista del usuario</p>
 
 </body>
 </html>
