@@ -21,11 +21,11 @@
 </ol>
 
 <ol>
-<h2><a href="Por completar">Proceso</a></h2>
-    <li><a href="Por completar">Descripción del Proceso</a></li>
-    <li><a href="Por completar">Gestión del Proceso</a></li>
-    <li><a href="Por completar">Métrica de Contribución Individual</a></li>
-    <li><a href="Por completar">Organización y Documentación del Repositorio</a></li>
+<h2><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Proceso/Descripción%20de%20procesos.md">Proceso</a></h2>
+    <li>Descripción del Proceso</li>
+    <li>Gestión del Proceso</li>
+    <li>Métrica de Contribución Individual</li>
+    <li>Organización y Documentación del Repositorio</li>
 </ol>
 
 <ol>
