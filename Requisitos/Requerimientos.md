@@ -1,4 +1,4 @@
-<h1>Requermientos</h1>
+<h1>Requerimientos</h1>
 
 | Requerimientos funcionales | Requerientos no funcionales |
 |-----------|-----------|
