@@ -39,7 +39,7 @@
    
 <ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-1/Competencias">Competencias</a></h2>
-    <li><a href="Por completar">Competencias Genéricas</a></li>
+    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Competencias/Competencias%20generales.md">Competencias Genéricas</a></li>
     <li><a href="Por completar">Competencias Específicas</a></li>
 </ol>
 
