@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>Competencias especificas</h1>
-    <p>Las competencias especificas que estuvueron presente al momento de la creacion del proyecto fueron: </p>
+    <p>Las competencias especificas que estuvieron presente al momento de la creacion del proyecto fueron: </p>
     <ol>
       <li>Conocimientos Basicos de HTML y Markdown para la estructuracion de la informacion despegad en el proyecto</li>
       <li>Conocimiento previo de la problematica para dar una splcucion mediante el desarrollo de software</li>
