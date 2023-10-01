@@ -33,7 +33,7 @@
     <li>Formato de la Presentación</li>
     <li>Ritmo de la Presentación</li>
     <li>Uso del Lenguaje</li>
-    <h3><a href="Por completar">Link del video</a></h3>
+    <h3><a href="https://youtu.be/zRLfTuby77U">Link del video</a></h3>
 </ol>
    
 <ol>
