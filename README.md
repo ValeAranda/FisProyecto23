@@ -9,4 +9,3 @@
     <li>GAMBOA ECHEVERRIA EDGAR ARIEL</li>
 </ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Index.md">First Delivery</a></h2>
-
