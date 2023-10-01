@@ -1,3 +1,5 @@
+<h1>Requerimientos</h1>
+
 | Requerimientos funcionales | Requerientos no funcionales |
 |-----------|-----------|
 | El usuario podrá agregar información de sus cuentas bancarias (teniendo en cuenta la seguridad de sus cuentas) con datos como saldo disponibles, gastos, así como la opción de poder eliminarlas    | Al tratarse de bancos e información bancaria, los datos proporcionados por los usuarios serán protegidos y encriptados para garantizar la seguridad de los datos   |
