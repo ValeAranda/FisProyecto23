@@ -8,7 +8,7 @@
 <ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-1/Producto">Producto</a></h2>
     <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Producto/Descripcion.md"> Descripcion </a></li>
-    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Producto/Usuarios.md"> Usuarios </a></li>
+    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Producto/Usuarios.md"> Usuarios/clientes </a></li>
     <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Producto/Usuarios.md"> Usuarios </a></li>
     <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Producto/Propuesta.md">Propuesta de valor </a></li>
 </ol>
