@@ -30,7 +30,7 @@
 </ol>
 
 <ol>
-<h2><a href="Por completar">Presentación del Avance</a></h2>
+<h2>Presentación del Avance</h2>
     <li>Formato de la Presentación</li>
     <li>Ritmo de la Presentación</li>
     <li>Uso del Lenguaje</li>
