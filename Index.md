@@ -7,7 +7,7 @@
 
 <ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-2/Producto">Producto</a></h2>
-    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Producto/Evolución.md"> Descripcion </a></li>
+    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Producto/Evolución.md"> Evolución </a></li>
 </ol>
 
 <ol>
@@ -18,7 +18,7 @@
 
 <ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-2/Proceso">Proceso</a></h2>
-    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Proceso/Descripción.md"Descripción del Proceso</a></li>
+    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Proceso/Descripción.md">Descripción del Proceso</a></li>
 </ol>
 
 <ol>
