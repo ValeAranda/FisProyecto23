@@ -20,12 +20,12 @@
 <li> El seguimiento de los gastos de la aplicación, permitiendo categorizar los diferentes tipos de gastos (ejemplo: alimentos, ropa, transporte, etc.).
 <li>  La posibilidad de poner un presupuesto, teniendo como límite la fecha en la que se reiniciará el seguimiento de los gastos.
 <li>  Proporcionar alertas cuando el usuario se acerque al presupuesto máximo dado en un periodo de tiempo.
-<li> Proporcionar informes sobre el estado financiero del usuario.
-<li>  Opciones para soporte al cliente.</li>
+<li>  Proporcionar informes sobre el estado financiero del usuario.
+<li> Opciones para soporte al cliente.
 <h2>Requerimientos no funcionales</h2>
   <ol>
-    <li>Como primera prioridad hemos establecido la seguridad de los datos bancarios del usuario, debido a la importancia de los datos bancarios de estea persona, los seran protegidos de manera encriptada, de este modo podremos garantizar a los usuarios la proteccion de sus datos personales y apegandonos a las normas que se requieran para llevar a cabo el proyecto</li>
-    <li>Como segunda prioridad ne los requisitos no funcionales, será el óptimo funcionamiento del servidor de la aplicación, permitiendo que los usuarios puedan establecer conexión con la app de manera que la conexión vaya estable y que así sea las 24 horas del dia de los usuarios para que puedan utilizar la aplicación a cualquier hora</li>
+    <li>Como primera prioridad hemos establecido la seguridad de los datos bancarios del usuario, debido a la importancia de los datos bancarios de cada persona, estos serán protegidos de manera encriptada, de este modo podremos garantizar a los usuarios la protección de sus datos personales, así también, apegándonos a las normas que se requieran para llevar a cabo el proyecto</li>
+    <li>Como segunda prioridad de los requisitos no funcionales, será el óptimo funcionamiento del servidor de la aplicación, permitiendo que los usuarios puedan establecer conexión con la app de manera que la conexión vaya estable y que así sea las 24 horas del dia de los usuarios para que puedan utilizar la aplicación a cualquier hora</li>
    <li>Como tercer prioridad en requisitos no funcionales será la de poder tener un desarrollo óptimo en las 2 plataformas que se desarrollará la app (ios y Android), estando en contstantes actualizaciones evitando la mayor cantidad de errores posibles.</li>
   </ol>
 </body>

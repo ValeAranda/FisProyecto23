@@ -1,1 +1,8 @@
-1234
+# Validación de interfaces
+## Pruebas de diseño visual
+Para la creación de las interfaces se realizaron varias pruebas de diseño para que estas sean lo más accesibles posible a los usuarios, en cada prueba se fueron cambiando y arreglando distintas cosas para hacer más sencillo y menos tedioso o molesto la vista de nuestro interfaz.
+## Revisión de los requisitos del cliente
+ Con respecto a la validación de interfaces se realizaron una serie de procesos para asegurar que la interfaz sea lo más cómoda para el cliente, implementando pequeños ajustes que al cliente la hayan parecido de mayor comodidad.
+ Se implementaron varios elementos con respecto a la accesibilidad y el diseño que el cliente quería en la aplicación, así como se descartaron varias otras, por el momento se cuenta con una interfaz que logra satisfacer la visión que el cliente tenía en un principio pero se espera mejorar más la interfaz a futuro.
+ ## Seguimiento de problemas
+Hubo algunos problemas en cuanto a la seguridad y accesibilidad de la interfaz que espera corregirse en los siguientes días, se espera contar con una interfaz más accesible, pero se considera que hubo una gran simplificación de la interfaz, por lo que se realizará algunos cambios. Esperamos agregar más opciones de gráficas y opciones de en la aplicación para indicar los gastos del usuario, también se planea agregar una sección para la cuenta del usuario, puesto que esto es de suma importancia.
