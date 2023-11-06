@@ -7,5 +7,4 @@
     <h2>Interfaz 2</h2>
      <img src="https://i.postimg.cc/g22Z2s8g/2.png">
 </body>
-
 </html>
