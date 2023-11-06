@@ -19,8 +19,6 @@
 <ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-2/Proceso">Proceso</a></h2>
     <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Proceso/Descripción.md"Descripción del Proceso</a></li>
-    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Proceso/Gestión.md"</a>Gestión del Proceso</li>
-    <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Proceso/Métrica%20de%20contribución.md"</a>Métrica de Contribución Individual</li>
     <li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Proceso/Organización%20y%20documentación.md"</a>Organización y Documentación del Repositorio</li>
 </ol>
 
