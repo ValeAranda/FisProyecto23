@@ -7,7 +7,5 @@
 <p>La capacidad de resolucion de problemas al moemnto de establecer a que tipo de usuario ira dirigido este proyecto de gestion de finanzas</p>
 <p>Optima comunicacion al momento de planificar las tareas especificas de los integrantes</p>
 <p>Capaciad de abstraccion y analisis cuando se hcieron las propuestas y descripcion delproducto</p>
-
-  
 </body>
 </html>
