@@ -1,4 +1,4 @@
-<html>
+
 <body>
 
 <h1>Integrantes</h1>
