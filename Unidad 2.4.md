@@ -10,7 +10,7 @@
      <b>Lean </b>
      La filosofía de gestión de procesos Lean surgió del sistema de producción de Toyota; este consistía en hacer más eficientes algunos procesos de la industria mediante la eliminación de desperdicios o actividades que no aportaban beneficios. Esto para obtener resultados más veloces en la productividad, competitividad y rentabilidad de las compañías sin la necesidad de requerir otras fuentes como la contratación de personal extra o la compra más de maquinaria, sino aprovechando los recursos actuales de la empresa.
      <h3>En LD, los cambios se consideran riesgos, pero si se manejan adecuadamente se pueden convertir en oportunidades que mejoren la productividad del cliente. Su principal característica es introducir un mecanismo para implementar dichos cambios.</h3>
-     Ventajas:
+    <h2> Ventajas:</h2>
      <li>
      <b>Eliminación de Residuos:</b>
     La eliminación de los residuos conduce a la eficiencia global del proceso de desarrollo. Esto a su vez acelera el proceso de desarrollo de software que reduce el tiempo y el costo del proyecto.</li>
@@ -18,7 +18,9 @@
     La entrega temprana del producto es una ventaja definitiva. Esto significa que su equipo de desarrollo puede ofrecer mayor funcionalidad en un corto periodo de tiempo, por lo tanto, permite que más proyectos puedan ser entregados. Esto va a satisfacer tanto su departamento de finanzas, como a los clientes finales.</li>
       <li><b>Empoderamiento del equipo:</b>
       El empoderamiento del equipo de desarrollo ayuda a desarrollar la capacidad de decisión de los miembros del equipo que a su vez, crea un equipo más motivado.</li>
-        Desventajas:
+  </ol>
+  <ol>
+        <h2>Desventajas:</h2>
      <li>
      <b>Dependencia del equipo</b>
     El proyecto depende en gran medida la cohesión del equipo y los compromisos individuales de los miembros del equipo. En la mayoría de las profesiones esto podría ser un factor muy importante.</li>
