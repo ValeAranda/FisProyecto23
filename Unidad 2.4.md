@@ -3,29 +3,27 @@
 <body>
 
    <h1>Unidad 2</h1>
-    <h2>Metodologías ágiles</h2>
-    <h2>Scrum</h2>
+    <h2>Metodologías agiles</h2>
+    <h2>Lean Development</h2>
 
  <ol>
-     <b>Scrum: </b>
-     Es un marco de gestión de proyectos de metodología ágil que ayuda a los equipos a estructurar y gestionar el trabajo mediante un conjunto de valores, principios y prácticas.
-     <h3>Scrum es un marco de trabajo simple que promueve la colaboración en los equipos para lograr desarrollar productos complejos</h3>
-     <b>Popularidad</b>
-     Scrum es la metodología ágil más utilizada. En 2017, supuso el 58% del total de uso de todas las metodologías, muy por delante de cualquier otra. Esta metodología está basada principalmente en la creación y asignación de cometidos.
-     Aunque Scrum nació como una metodología ágil para el desarrollo de software, sus bondades han hecho que se utilice en muchos otros sectores.
+     <b>Lean </b>
+     La filosofía de gestión de procesos Lean surgió del sistema de producción de Toyota; este consistía en hacer más eficientes algunos procesos de la industria mediante la eliminación de desperdicios o actividades que no aportaban beneficios. Esto para obtener resultados más veloces en la productividad, competitividad y rentabilidad de las compañías sin la necesidad de requerir otras fuentes como la contratación de personal extra o la compra más de maquinaria, sino aprovechando los recursos actuales de la empresa.
+     <h3>En LD, los cambios se consideran riesgos, pero si se manejan adecuadamente se pueden convertir en oportunidades que mejoren la productividad del cliente. Su principal característica es introducir un mecanismo para implementar dichos cambios.</h3>
+     Ventajas:
      <li>
-     Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.</li>
-     <li>
-      Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados.</li>
-      <li>
-      Solapar las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada.</li>
-    </ol>
+     <b>Eliminación de Residuos:</b>
+    La eliminación de los residuos conduce a la eficiencia global del proceso de desarrollo. Esto a su vez acelera el proceso de desarrollo de software que reduce el tiempo y el costo del proyecto.</li>
+     <li><b>Entrega Oportuna:</b> 
+    La entrega temprana del producto es una ventaja definitiva. Esto significa que su equipo de desarrollo puede ofrecer mayor funcionalidad en un corto periodo de tiempo, por lo tanto, permite que más proyectos puedan ser entregados. Esto va a satisfacer tanto su departamento de finanzas, como a los clientes finales.</li>
+      <li><b>Empoderamiento del equipo:</b>
+      El empoderamiento del equipo de desarrollo ayuda a desarrollar la capacidad de decisión de los miembros del equipo que a su vez, crea un equipo más motivado.</li>
+       </ol>
+      <h2>El papel de un analista de negocios es de vital importancia para garantizar la documentación de los requerimientos del negocio (BRD) se entiende correctamente. Si usted no tiene una persona con las habilidades correctas analista de negocios, entonces rápidamente podría encontrar esta convertido en una de las causas de la corrupción del alcance.</h2>
     <h2>Referencias</h2>
-    <h3>Martins, J. (2023, 19 junio). Scrum: conceptos clave y cómo se aplica en la gestión de proyectos [2023] • Asana. Asana. https://asana.com/es/resources/what-is-scrum</h3>
-    <h3>colaboradores de Wikipedia. (2023, 27 septiembre). Scrum (desarrollo de software). Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)</h3>
-    <h3>Digital. (2022, 4 octubre). Las mejores metodologías ágiles para la creación de software. DIGITAL55. https://digital55.com/blog/mejores-metodologias-agiles-creacion-software/#:~:text=Scrum%20es%20la%20metodolog%C3%ADa%20%C3%A1gil%20m%C3%A1s%20utilizada.
-    <h3>Atlassian. (s. f.). ¿Qué es scrum? [+ Cómo empezar] | Atlassian. https://www.atlassian.com/es/agile/scrum</h3>
-</h3>
+    <h3>Ventajas y desventajas. (2017, 18 octubre). Lean Development. https://iswugleandevelopment.wordpress.com/ventajas-y-desventajas</h3>
+    <h3>EcuRed. (s. f.). Lean Development - ECURED. https://www.ecured.cu/Lean_Development</h3>
+    <h3>Comunicaciones. (2019, 11 julio). Desarrollo de software lean (LSD) y sus beneficios para las empresas. Globalbit. https://www.globalbit.co/2019/07/11/desarrollo-de-software-lean-lsd-y-sus-beneficios-para-las-empresas/</h3>
 
 </body>
 </html>
