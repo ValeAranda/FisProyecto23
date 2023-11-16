@@ -21,8 +21,9 @@
       <li><b>Verificación del diseño</b>
       Durante esta etapa, se llevará a cabo la prueba piloto del diseño y del producto. No se debe proceder con el lanzamiento del producto sin realizar una evaluación en condiciones de vida real o una prueba piloto. En esta fase, se determinará si las funciones del producto/diseño cumplen con los requisitos descritos en la etapa uno en un entorno del mundo real.</li>
     </ol>
-    <h2>¿Qué es DFSS? | FlexQube. (s. f.). FlexQube. https://www.flexqube.com/es-mx/noticias/que-es-dfss/</h2>
-    <h2>Proceso para el desarrollo de Arquitecturas de Software basado en DFSS, Araceli Núñez Mora, https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/89/2/TE%20197.pdf</h2>
+    <h2>Referencias</h2>
+    <h3>¿Qué es DFSS? | FlexQube. (s. f.). FlexQube. https://www.flexqube.com/es-mx/noticias/que-es-dfss/</h3>
+    <h3>Proceso para el desarrollo de Arquitecturas de Software basado en DFSS, Araceli Núñez Mora, https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/89/2/TE%20197.pdf</h3>
 
 </body>
 </html>
