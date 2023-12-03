@@ -8,10 +8,6 @@
 <h3>Esta representado de forma herarquica y ayuda a entender mejor la relación entre subcategoeías</h3>
 <h2>Boehm</h2>
 <h3>El modelo fue hecho por Barry W. Boehm en 1978</h3>
-<h3>Este se enfoca en 3 principales perspectivas para definir el modelo de calidad del software</h3>
-<h3>1. Revisión del producto</h3>
-<h3>2. Transición del producto</h3>
-<h3>Operaciones del producto</h3>
 <h3>Presenta la calidad del software con un conjunto de 6 areas</h3>
 <h3>1. Funcionalidad</h3>
 <h3>2. Confiabilidad</h3>
