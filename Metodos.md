@@ -11,25 +11,19 @@
 <h1>WBS con historia de usuario</h1>
 ## Historia de Usuario: Detalle de Gastos Semanales
 
-- **ID WBS:** 1.1
-- **Nombre:** Detalle de Gastos Semanales
-- **Duración Estimada:** 4 días
-- **Costo Estimado:** $2000.
-
-### Paquetes de Trabajo:
-
-#### 1.1.1 Desarrollo de Botón Detalle:
-- **Duración:** 2 días
-- **Costo Estimado:** $5000
-
-#### 1.1.2 Implementación de Detección de Gastos Repetitivos:
-- **Duración:** 3 días
-- **Costo Estimado:** $1300
-
-#### 1.1.3 Diseño de Visualización de Datos en Diagrama:
-- **Duración:** 2 días
-- **Costo Estimado:** $4000
-
-#### 1.1.4 Desarrollo de Interfaz Intuitiva:
-- **Duración:** 4 días
-- **Costo Estimado:** $5000
+1. Despliegue de gastos semanales
+    1.1. Diseño de la funcionalidad de visualización detallada de gastos semanales
+        1.1.1. Análisis de requisitos para la visualización de gastos
+        1.1.2. Diseño de la interfaz de usuario para mostrar los gastos semanales
+    1.2. Desarrollo de la funcionalidad de despliegue de gastos semanales
+        1.2.1. Implementación de la lógica para calcular y filtrar los gastos semanales
+        1.2.2. Creación de la base de datos o estructura de almacenamiento para los gastos
+    1.3. Pruebas de la funcionalidad de despliegue de gastos semanales
+        1.3.1. Pruebas de visualización en diferentes dispositivos y tamaños de pantalla
+        1.3.2. Verificación de la precisión y consistencia de los datos mostrados
+    1.4. Integración con funcionalidades existentes de la aplicación financiera
+        1.4.1. Asegurar la integración sin problemas con otras secciones de la aplicación
+        1.4.2. Realizar pruebas de funcionamiento conjunto con otras características
+    1.5. Documentación y capacitación
+        1.5.1. Elaboración de documentación para usuarios sobre cómo acceder y usar la funcionalidad
+        1.5.2. Capacitación interna para el equipo de soporte sobre esta nueva característica
