@@ -10,4 +10,4 @@
 </ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Index.md">First Delivery</a></h2>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-2/Index.md">Second Delivery</a></h2>
-<h2><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Index.md">Second Delivery</a></h2>
+<h2><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-1/Index.md">Third Delivery</a></h2>

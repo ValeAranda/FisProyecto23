@@ -29,7 +29,7 @@ Capaciad de abstraccion y analisis cuando se hcieron las propuestas y descripcio
 
 <h1>Critica constructiva al curso</h1>
 
-En principio, deseo destacar la importancia tanto de los contenidos teóricos como prácticos que se abordaron a lo largo del curso, así como la implementación de metodologías ágiles en los proyectos. Este enfoque proporcionó una comprensión sólida de los principios fundamentales de la ingeniería de software, al mismo tiempo que fomentó el desarrollo de habilidades prácticas en la ejecución de proyectos.
+Deseo destacar la importancia tanto de los contenidos teóricos como prácticos que se abordaron a lo largo del curso, así como la implementación de metodologías ágiles en los proyectos. Este enfoque proporcionó una comprensión sólida de los principios fundamentales de la ingeniería de software, al mismo tiempo que fomentó el desarrollo de habilidades prácticas en la ejecución de proyectos.
 
 </p>
 </body>

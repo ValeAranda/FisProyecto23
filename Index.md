@@ -22,31 +22,25 @@
 
 <ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/diseño">Diseño</a></h2>
-    <li>Descripción del Proceso</li>
-    <li>Gestión del Proceso</li>
-    <li>Métrica de Contribución Individual</li>
-    <li>Organización y Documentación del Repositorio</li>
+
 </ol>
 
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/pruebas">Pruebas</a></h2>
-    <li>Descripción del Proceso</li>
-    <li>Gestión del Proceso</li>
-    <li>Métrica de Contribución Individual</li>
-    <li>Organización y Documentación del Repositorio</li>
+
 </ol>
 
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/proceso">Proceso</a></h2>
-    <li>Descripción del Proceso</li>
-    <li>Gestión del Proceso</li>
-    <li>Métrica de Contribución Individual</li>
-    <li>Organización y Documentación del Repositorio</li>
+
 </ol>
 
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/competencias">Competencias</a></h2>
-    <li>Descripción del Proceso</li>
-    <li>Gestión del Proceso</li>
-    <li>Métrica de Contribución Individual</li>
-    <li>Organización y Documentación del Repositorio</li>
+<li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-3/competencias/Competencias.md#competencias-genericas">Competencias genericas</a></li>
+<li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-3/competencias/Competencias.md#competencias-especificas">Competencias especificas</a></li>
+<li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-3/competencias/Competencias.md#critica-constructiva-al-curso">Critica constructiva al curso
+</a></li>
+
+</a></li>
+
 </ol>
 
 </body>
