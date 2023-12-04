@@ -9,20 +9,19 @@
 ![image](https://github.com/ValeAranda/FisProyecto23/assets/143724323/c0b32e56-7add-4b0a-a5fa-5dc2d7990bf8)
 
 ## Historia de Usuario: Detalle de Gastos Semanales
-
-1. Despliegue de gastos semanales
-    1.1. Diseño de la funcionalidad de visualización detallada de gastos semanales
-        1.1.1. Análisis de requisitos para la visualización de gastos
-        1.1.2. Diseño de la interfaz de usuario para mostrar los gastos semanales
-    1.2. Desarrollo de la funcionalidad de despliegue de gastos semanales
-        1.2.1. Implementación de la lógica para calcular y filtrar los gastos semanales
-        1.2.2. Creación de la base de datos o estructura de almacenamiento para los gastos
-    1.3. Pruebas de la funcionalidad de despliegue de gastos semanales
-        1.3.1. Pruebas de visualización en diferentes dispositivos y tamaños de pantalla
-        1.3.2. Verificación de la precisión y consistencia de los datos mostrados
-    1.4. Integración con funcionalidades existentes de la aplicación financiera
-        1.4.1. Asegurar la integración sin problemas con otras secciones de la aplicación
-        1.4.2. Realizar pruebas de funcionamiento conjunto con otras características
-    1.5. Documentación y capacitación
-        1.5.1. Elaboración de documentación para usuarios sobre cómo acceder y usar la funcionalidad
-        1.5.2. Capacitación interna para el equipo de soporte sobre esta nueva característica
+- Despliegue de gastos semanales
+    - Diseño de la funcionalidad de visualización detallada de gastos semanales
+        - Análisis de requisitos para la visualización de gastos
+        - Diseño de la interfaz de usuario para mostrar los gastos semanales
+    - Desarrollo de la funcionalidad de despliegue de gastos semanales
+        - Implementación de la lógica para calcular y filtrar los gastos semanales
+        - Creación de la base de datos o estructura de almacenamiento para los gastos
+    - Pruebas de la funcionalidad de despliegue de gastos semanales
+        - Pruebas de visualización en diferentes dispositivos y tamaños de pantalla
+        - Verificación de la precisión y consistencia de los datos mostrados
+    - Integración con funcionalidades existentes de la aplicación financiera
+        - Asegurar la integración sin problemas con otras secciones de la aplicación
+        - Realizar pruebas de funcionamiento conjunto con otras características
+    - Documentación y capacitación
+        - Elaboración de documentación para usuarios sobre cómo acceder y usar la funcionalidad
+        - Capacitación interna para el equipo de soporte sobre esta nueva característica
