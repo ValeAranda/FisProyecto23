@@ -26,7 +26,6 @@
 </ol>
 
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/pruebas">Pruebas</a></h2>
-
 </ol>
 
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/proceso">Proceso</a></h2>
