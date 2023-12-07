@@ -26,7 +26,7 @@
 </ol>
 
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/pruebas">Pruebas</a></h2>
-<li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-3/requisitos/Requisitos.md#evolucion-de-requisitos">evolucion de requisitos</a></li>
+<li><a href="<li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-3/requisitos/Requisitos.md#evolucion-de-requisitos">evolucion de requisitos</a></li>">Punto de vista de cliente</a></li>
 
 </ol>
 
