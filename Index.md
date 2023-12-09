@@ -22,6 +22,8 @@
 
 <ol>
 <h2><a href="https://github.com/ValeAranda/FisProyecto23/tree/Entrega-3/diseño">Diseño</a></h2>
+<li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-3/dise%C3%B1o/Prototipo1.md">Prototipo 1</a></li>
+<li><a href="https://github.com/ValeAranda/FisProyecto23/blob/Entrega-3/dise%C3%B1o/Prototipo1.md">Prototipo 1</a></li>
 
 </ol>
 
